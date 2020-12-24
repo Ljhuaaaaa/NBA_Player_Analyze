@@ -3,7 +3,7 @@ NBA现役球员分析
 
 ## 一、 数据爬取
 
-对NBA中文网（https://china.nba.com/playerindex/） 进行现役球员的数据爬取。
+对NBA中文网（ https://china.nba.com/playerindex/ ） 进行现役球员的数据爬取。
 
 爬取的字段包括：
 
